@@ -60,10 +60,12 @@ export function RecommendationCard({ recommendation }: { recommendation: Recomme
             {copied ? "已複製調校代碼" : ""}
           </span>
         </div>
+      ) : recommendation.tuneSearchHint ? (
+        <p className="text-sm text-slate-400">調校搜尋提示:{recommendation.tuneSearchHint}</p>
       ) : (
-        recommendation.tuneSearchHint && (
-          <p className="text-sm text-slate-400">調校搜尋提示:{recommendation.tuneSearchHint}</p>
-        )
+        <p className="text-sm text-slate-400">
+          遊戲內 Upgrade and Tune 選單 → Find Tuning Setups → 依讚數排序 → 套用。
+        </p>
       )}
 
       <div className="flex flex-wrap items-center gap-2 text-xs text-slate-500">

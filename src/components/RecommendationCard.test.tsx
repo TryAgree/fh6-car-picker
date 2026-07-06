@@ -41,6 +41,12 @@ describe("RecommendationCard", () => {
     expect(screen.getByText(/search the marketplace/)).toBeInTheDocument();
   });
 
+  it("falls back to generic in-game guidance when neither tuneCode nor tuneSearchHint exists", () => {
+    render(<RecommendationCard recommendation={makeRecommendation()} />);
+    expect(screen.queryByRole("button", { name: "複製" })).not.toBeInTheDocument();
+    expect(screen.getByText(/Upgrade and Tune/)).toBeInTheDocument();
+  });
+
   it("shows the derived note when present", () => {
     render(
       <RecommendationCard
