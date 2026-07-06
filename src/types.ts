@@ -63,5 +63,6 @@ export const MetaSchema = z.object({
   sourceRepo: z.string().url(),
   license: z.string().min(1),
   sources: z.array(z.string()).min(1),
+  lastVerifiedAt: z.string().optional(),
 });
 export type Meta = z.infer<typeof MetaSchema>;
