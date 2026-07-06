@@ -1,5 +1,7 @@
 # CLAUDE.md — FH6 Car Picker
 
+**專案絕對路徑:`C:\Projects\fh6-car-picker`**(曾誤放 OneDrive 桌面的 `fh6 new`,2026-07-06 已遷移訂正——動工前先確認在這個路徑下)。
+
 ## 專案是什麼
 
 FH6 選車查詢器:選 `discipline × class`,回傳社群 meta 推薦車種 + 調校碼,使用者進遊戲買車、下載調校、開跑。純前端靜態站,部署 Vercel,兼作作品集。
