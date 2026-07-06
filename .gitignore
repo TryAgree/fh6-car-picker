@@ -4,6 +4,7 @@ dist-ssr
 *.local
 .vercel
 *.tsbuildinfo
+__pycache__
 
 # logs
 npm-debug.log*

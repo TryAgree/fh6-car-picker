@@ -1,0 +1,1840 @@
+[
+  {
+    "discipline": "road",
+    "class": "D",
+    "rank": 1,
+    "carId": "toyota-sports-800",
+    "source": [
+      {
+        "name": "gamingpromax"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Autoshow (cheap)",
+    "strengths": [
+      "~580 kg; sharpest handling on tight, technical D-class tracks."
+    ],
+    "weaknesses": [
+      "Very low power; struggles on long straights."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "street",
+    "class": "D",
+    "rank": 1,
+    "carId": "toyota-sports-800",
+    "source": [
+      {
+        "name": "gamingpromax"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Autoshow (cheap)",
+    "strengths": [
+      "~580 kg; sharpest handling on tight, technical D-class tracks."
+    ],
+    "weaknesses": [
+      "Very low power; struggles on long straights."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "road",
+    "class": "C",
+    "rank": 1,
+    "carId": "jaguar-e-type-s1",
+    "source": [
+      {
+        "name": "Game8"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Tentative",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Cited as best C-class all-rounder; strong balance."
+    ],
+    "weaknesses": [
+      "Needs tuning to reach the class ceiling."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "street",
+    "class": "C",
+    "rank": 1,
+    "carId": "jaguar-e-type-s1",
+    "source": [
+      {
+        "name": "Game8"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Tentative",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Cited as best C-class all-rounder; strong balance."
+    ],
+    "weaknesses": [
+      "Needs tuning to reach the class ceiling."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "road",
+    "class": "B",
+    "rank": 1,
+    "carId": "audi-rs-6",
+    "source": [
+      {
+        "name": "Game8"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Strong speed + handling; traditional B option."
+    ],
+    "weaknesses": [
+      "Heavy vs hot-hatch rivals."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "street",
+    "class": "B",
+    "rank": 1,
+    "carId": "audi-rs-6",
+    "source": [
+      {
+        "name": "Game8"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Strong speed + handling; traditional B option."
+    ],
+    "weaknesses": [
+      "Heavy vs hot-hatch rivals."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "road",
+    "class": "B",
+    "rank": 2,
+    "carId": "volkswagen-golf-r",
+    "source": [
+      {
+        "name": "Single source"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Tentative",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Strong AWD all-rounder for B-Class road."
+    ],
+    "weaknesses": [
+      "Early / single-weighted claim — verify."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "street",
+    "class": "B",
+    "rank": 2,
+    "carId": "volkswagen-golf-r",
+    "source": [
+      {
+        "name": "Single source"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Tentative",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Strong AWD all-rounder for B-Class road."
+    ],
+    "weaknesses": [
+      "Early / single-weighted claim — verify."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "road",
+    "class": "B",
+    "rank": 3,
+    "carId": "toyota-2000gt",
+    "source": [
+      {
+        "name": "Single source"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Tentative",
+    "acquisition": "Barn Find (must be located)",
+    "strengths": [
+      "Standout classic B-Class pick."
+    ],
+    "weaknesses": [
+      "Barn Find — not buyable until found."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "street",
+    "class": "B",
+    "rank": 3,
+    "carId": "toyota-2000gt",
+    "source": [
+      {
+        "name": "Single source"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Tentative",
+    "acquisition": "Barn Find (must be located)",
+    "strengths": [
+      "Standout classic B-Class pick."
+    ],
+    "weaknesses": [
+      "Barn Find — not buyable until found."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "road",
+    "class": "A",
+    "rank": 1,
+    "carId": "toyota-gr-supra",
+    "source": [
+      {
+        "name": "Game8"
+      },
+      {
+        "name": "PC Gamer"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Most adaptable A platform (road/drift/CC); well-tuned it punches into S1."
+    ],
+    "weaknesses": [
+      "Jack-of-all-trades; not class-leading raw pace."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "street",
+    "class": "A",
+    "rank": 1,
+    "carId": "toyota-gr-supra",
+    "source": [
+      {
+        "name": "Game8"
+      },
+      {
+        "name": "PC Gamer"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Most adaptable A platform (road/drift/CC); well-tuned it punches into S1."
+    ],
+    "weaknesses": [
+      "Jack-of-all-trades; not class-leading raw pace."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "road",
+    "class": "A",
+    "rank": 2,
+    "carId": "bmw-m2-competition-coupe",
+    "source": [
+      {
+        "name": "Game8"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Traditional A option with strong speed/handling balance."
+    ],
+    "weaknesses": [
+      "Less adaptable than the Supra."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "street",
+    "class": "A",
+    "rank": 2,
+    "carId": "bmw-m2-competition-coupe",
+    "source": [
+      {
+        "name": "Game8"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Traditional A option with strong speed/handling balance."
+    ],
+    "weaknesses": [
+      "Less adaptable than the Supra."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "road",
+    "class": "A",
+    "rank": 3,
+    "carId": "jaguar-xj220",
+    "source": [
+      {
+        "name": "gamingpromax"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Autoshow / Auction House",
+    "strengths": [
+      "Excellent for fast, open road events."
+    ],
+    "weaknesses": [
+      "Less agile in tight corners."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "street",
+    "class": "A",
+    "rank": 3,
+    "carId": "jaguar-xj220",
+    "source": [
+      {
+        "name": "gamingpromax"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Autoshow / Auction House",
+    "strengths": [
+      "Excellent for fast, open road events."
+    ],
+    "weaknesses": [
+      "Less agile in tight corners."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "road",
+    "class": "S1",
+    "rank": 1,
+    "carId": "nissan-gt-r-nismo",
+    "source": [
+      {
+        "name": "Game8"
+      },
+      {
+        "name": "Dexerto"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Autoshow / Touge & Street Rivals milestones",
+    "strengths": [
+      "Go-to S1: AWD traction, ~600 hp, quick off the line; bend-heavy tracks. Base game."
+    ],
+    "weaknesses": [
+      "Heavy; AWD understeer if mistuned."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "priceCr": 270000,
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "street",
+    "class": "S1",
+    "rank": 1,
+    "carId": "nissan-gt-r-nismo",
+    "source": [
+      {
+        "name": "Game8"
+      },
+      {
+        "name": "Dexerto"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Autoshow / Touge & Street Rivals milestones",
+    "strengths": [
+      "Go-to S1: AWD traction, ~600 hp, quick off the line; bend-heavy tracks. Base game."
+    ],
+    "weaknesses": [
+      "Heavy; AWD understeer if mistuned."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "priceCr": 270000,
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "road",
+    "class": "S1",
+    "rank": 2,
+    "carId": "porsche-911-gt3-rs",
+    "source": [
+      {
+        "name": "Game8"
+      },
+      {
+        "name": "PC Gamer"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Quintessential street racer; slicks + wide base = perfect for tight tracks."
+    ],
+    "weaknesses": [
+      "Not the highest top speed."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "priceCr": 260000,
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "street",
+    "class": "S1",
+    "rank": 2,
+    "carId": "porsche-911-gt3-rs",
+    "source": [
+      {
+        "name": "Game8"
+      },
+      {
+        "name": "PC Gamer"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Quintessential street racer; slicks + wide base = perfect for tight tracks."
+    ],
+    "weaknesses": [
+      "Not the highest top speed."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "priceCr": 260000,
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "road",
+    "class": "S1",
+    "rank": 3,
+    "carId": "porsche-911-turbo-s",
+    "source": [
+      {
+        "name": "gamingpromax"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "10 launch stat; near-perfect top speed/handling/braking; very tunable."
+    ],
+    "weaknesses": [
+      "Tricky at the limit until tuned."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "priceCr": 275000,
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "street",
+    "class": "S1",
+    "rank": 3,
+    "carId": "porsche-911-turbo-s",
+    "source": [
+      {
+        "name": "gamingpromax"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "10 launch stat; near-perfect top speed/handling/braking; very tunable."
+    ],
+    "weaknesses": [
+      "Tricky at the limit until tuned."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "priceCr": 275000,
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "road",
+    "class": "S2",
+    "rank": 1,
+    "carId": "mercedes-amg-one",
+    "source": [
+      {
+        "name": "Game8"
+      },
+      {
+        "name": "Dexerto"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Autoshow (also Wheelspin / loyalty)",
+    "strengths": [
+      "Perfect 10 acceleration; active aero dominant on technical high-speed circuits. Meta S2 road pick."
+    ],
+    "weaknesses": [
+      "Very expensive; demanding on bumpy streets."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "priceCr": 2700000,
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "street",
+    "class": "S2",
+    "rank": 1,
+    "carId": "mercedes-amg-one",
+    "source": [
+      {
+        "name": "Game8"
+      },
+      {
+        "name": "Dexerto"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Autoshow (also Wheelspin / loyalty)",
+    "strengths": [
+      "Perfect 10 acceleration; active aero dominant on technical high-speed circuits. Meta S2 road pick."
+    ],
+    "weaknesses": [
+      "Very expensive; demanding on bumpy streets."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "priceCr": 2700000,
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "road",
+    "class": "S2",
+    "rank": 2,
+    "carId": "gr-gt-prototype-toyota",
+    "source": [
+      {
+        "name": "PC Gamer"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Autoshow (listed under 'GR')",
+    "strengths": [
+      "PC Gamer's favourite; cover car. Slicks + widened track = exceptionally planted. Standout value."
+    ],
+    "weaknesses": [
+      "None notable for the price."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "priceCr": 250000,
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "street",
+    "class": "S2",
+    "rank": 2,
+    "carId": "gr-gt-prototype-toyota",
+    "source": [
+      {
+        "name": "PC Gamer"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Autoshow (listed under 'GR')",
+    "strengths": [
+      "PC Gamer's favourite; cover car. Slicks + widened track = exceptionally planted. Standout value."
+    ],
+    "weaknesses": [
+      "None notable for the price."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "priceCr": 250000,
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "road",
+    "class": "S2",
+    "rank": 3,
+    "carId": "koenigsegg-jesko",
+    "source": [
+      {
+        "name": "Game8"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Leads S2 in raw top speed; best for long straights / speed zones."
+    ],
+    "weaknesses": [
+      "Needs careful tuning to corner."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "street",
+    "class": "S2",
+    "rank": 3,
+    "carId": "koenigsegg-jesko",
+    "source": [
+      {
+        "name": "Game8"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Leads S2 in raw top speed; best for long straights / speed zones."
+    ],
+    "weaknesses": [
+      "Needs careful tuning to corner."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "road",
+    "class": "S2",
+    "rank": 4,
+    "carId": "mazda-furai",
+    "source": [
+      {
+        "name": "PC Gamer Series 1"
+      },
+      {
+        "name": "Forzafire"
+      },
+      {
+        "name": "gamingpromax"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Festival Playlist Series 1 (80-pt series reward, headline car)",
+    "strengths": [
+      "Series 1 standout: planted AWD S2 all-rounder; also builds into R for max speed."
+    ],
+    "weaknesses": [
+      "Locked behind Series 1 (80 pts across the 4-week series)."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "street",
+    "class": "S2",
+    "rank": 4,
+    "carId": "mazda-furai",
+    "source": [
+      {
+        "name": "PC Gamer Series 1"
+      },
+      {
+        "name": "Forzafire"
+      },
+      {
+        "name": "gamingpromax"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Festival Playlist Series 1 (80-pt series reward, headline car)",
+    "strengths": [
+      "Series 1 standout: planted AWD S2 all-rounder; also builds into R for max speed."
+    ],
+    "weaknesses": [
+      "Locked behind Series 1 (80 pts across the 4-week series)."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "road",
+    "class": "R",
+    "rank": 1,
+    "carId": "ferrari-fxx-k-evo",
+    "source": [
+      {
+        "name": "Game8"
+      },
+      {
+        "name": "Dexerto"
+      },
+      {
+        "name": "gamingpromax"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Autoshow (also Welcome Pack)",
+    "strengths": [
+      "Cleanest R consensus; superb stock speed, handling & braking; only improves tuned."
+    ],
+    "weaknesses": [
+      "Power can overwhelm on tight tracks; track-focused."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "priceCr": 4500000,
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "street",
+    "class": "R",
+    "rank": 1,
+    "carId": "ferrari-fxx-k-evo",
+    "source": [
+      {
+        "name": "Game8"
+      },
+      {
+        "name": "Dexerto"
+      },
+      {
+        "name": "gamingpromax"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Autoshow (also Welcome Pack)",
+    "strengths": [
+      "Cleanest R consensus; superb stock speed, handling & braking; only improves tuned."
+    ],
+    "weaknesses": [
+      "Power can overwhelm on tight tracks; track-focused."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "priceCr": 4500000,
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "road",
+    "class": "R",
+    "rank": 2,
+    "carId": "aston-martin-valkyrie",
+    "source": [
+      {
+        "name": "Game8"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "One of the fastest cars at top speed (default 9.2); handles well tuned."
+    ],
+    "weaknesses": [
+      "Slow acceleration vs the FXX-K."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "priceCr": 2750000,
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "street",
+    "class": "R",
+    "rank": 2,
+    "carId": "aston-martin-valkyrie",
+    "source": [
+      {
+        "name": "Game8"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "One of the fastest cars at top speed (default 9.2); handles well tuned."
+    ],
+    "weaknesses": [
+      "Slow acceleration vs the FXX-K."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "priceCr": 2750000,
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "road",
+    "class": "R",
+    "rank": 3,
+    "carId": "mclaren-p1",
+    "source": [
+      {
+        "name": "Game8"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Lightning top speed for road/street."
+    ],
+    "weaknesses": [
+      "Slow acceleration; weaker on very twisty courses."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "priceCr": 1550000,
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "street",
+    "class": "R",
+    "rank": 3,
+    "carId": "mclaren-p1",
+    "source": [
+      {
+        "name": "Game8"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Lightning top speed for road/street."
+    ],
+    "weaknesses": [
+      "Slow acceleration; weaker on very twisty courses."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "priceCr": 1550000,
+    "derived": {
+      "reason": "road-street-merged",
+      "note": "來源未區分 road/street,兩者推薦內容相同"
+    }
+  },
+  {
+    "discipline": "drag",
+    "class": "D",
+    "rank": 1,
+    "carId": "honda-beat",
+    "source": [
+      {
+        "name": "Game8"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Tentative",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Cheap, light D-class drag entry."
+    ],
+    "weaknesses": [
+      "Tiny power; bottom of the ladder."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: filter Drag, sort top-rated; also YouTube drag-tune videos *",
+    "priceCr": 15000
+  },
+  {
+    "discipline": "drag",
+    "class": "B",
+    "rank": 1,
+    "carId": "toyota-supra-rz",
+    "source": [
+      {
+        "name": "gamingpromax"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Best budget build; tunes up to challenge hypercars."
+    ],
+    "weaknesses": [
+      "Needs heavy AWD/power swap to compete up-class."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: filter Drag, sort top-rated; also YouTube drag-tune videos *",
+    "priceCr": 90000
+  },
+  {
+    "discipline": "drag",
+    "class": "S1",
+    "rank": 1,
+    "carId": "nissan-gt-r-black-edition-r35",
+    "source": [
+      {
+        "name": "Game8"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Cheap AWD launch base for drag builds."
+    ],
+    "weaknesses": [
+      "Stock top end limited."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: filter Drag, sort top-rated; also YouTube drag-tune videos *",
+    "priceCr": 80000
+  },
+  {
+    "discipline": "drag",
+    "class": "S2",
+    "rank": 1,
+    "carId": "nissan-gt-r-black-edition-r35-forza-edition",
+    "source": [
+      {
+        "name": "Game8"
+      },
+      {
+        "name": "gamingpromax"
+      },
+      {
+        "name": "community"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Wheelspins / Auction House only",
+    "strengths": [
+      "Consensus best all-round drag: factory chute, AWD, ~3,000 hp, consistent ~6s quarter mile."
+    ],
+    "weaknesses": [
+      "RNG to obtain; near-uncontrollable in corners (straight-line only)."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: filter Drag, sort top-rated; also YouTube drag-tune videos *"
+  },
+  {
+    "discipline": "drag",
+    "class": "S2",
+    "rank": 2,
+    "carId": "mazda-mx-5-miata-forza-edition",
+    "source": [
+      {
+        "name": "Game8"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Aftermarket spot (Festival KM Drag Meet) / Auction House",
+    "strengths": [
+      "Best out-of-box drag car; AWD + stock drag tyres, insane launch."
+    ],
+    "weaknesses": [
+      "Falls off on very long top-speed strips."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: filter Drag, sort top-rated; also YouTube drag-tune videos *",
+    "priceCr": 500000
+  },
+  {
+    "discipline": "drag",
+    "class": "S2",
+    "rank": 3,
+    "carId": "hennessey-venom-f5",
+    "source": [
+      {
+        "name": "Dexerto"
+      },
+      {
+        "name": "community"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Autoshow / Auction House",
+    "strengths": [
+      "Raw top-speed king (community clocked ~315+ mph)."
+    ],
+    "weaknesses": [
+      "Traction-limited launch; poor for short drags."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: filter Drag, sort top-rated; also YouTube drag-tune videos *"
+  },
+  {
+    "discipline": "drag",
+    "class": "R",
+    "rank": 1,
+    "carId": "toyota-tacoma-trd-pro-forza-edition",
+    "source": [
+      {
+        "name": "Game8"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Wheelspin / FE reward",
+    "strengths": [
+      "AWD monster launch, dialled for drag out of the box."
+    ],
+    "weaknesses": [
+      "Poor top-end speed."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: filter Drag, sort top-rated; also YouTube drag-tune videos *"
+  },
+  {
+    "discipline": "drift",
+    "class": "D",
+    "rank": 1,
+    "carId": "toyota-sprinter-trueno-gt-apex-ae86",
+    "source": [
+      {
+        "name": "Switchblade"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Autoshow (cheap)",
+    "strengths": [
+      "~980 kg + high-rev 4A-GE rotates faster than anything in D; holds angle on min throttle."
+    ],
+    "weaknesses": [
+      "Tiny power ceiling; outclassed once tuned past D."
+    ],
+    "tuneSearchHint": "JSR Chronic FH6 tune sheet (Forza Forums) + in-game Drift filter, sort top-rated *"
+  },
+  {
+    "discipline": "drift",
+    "class": "C",
+    "rank": 1,
+    "carId": "mazda-mx-5-miata-rf",
+    "source": [
+      {
+        "name": "PC Gamer"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Friendliest learner; chains drifts without spinning on drift tyres. Any MX-5 works."
+    ],
+    "weaknesses": [
+      "Low stock power; wants forced induction."
+    ],
+    "tuneSearchHint": "JSR Chronic FH6 tune sheet (Forza Forums) + in-game Drift filter, sort top-rated *",
+    "priceCr": 29000
+  },
+  {
+    "discipline": "drift",
+    "class": "C",
+    "rank": 2,
+    "carId": "nissan-silvia-s13",
+    "source": [
+      {
+        "name": "Switchblade"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Autoshow (early career)",
+    "strengths": [
+      "Forgiving, cheap to upgrade, available early."
+    ],
+    "weaknesses": [
+      "Needs power tuning to shine."
+    ],
+    "tuneSearchHint": "JSR Chronic FH6 tune sheet (Forza Forums) + in-game Drift filter, sort top-rated *"
+  },
+  {
+    "discipline": "drift",
+    "class": "B",
+    "rank": 1,
+    "carId": "nissan-silvia-ks-s14",
+    "source": [
+      {
+        "name": "Switchblade"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Most balanced Silvia; SR20DET predictable, clean linked angle, no snap oversteer."
+    ],
+    "weaknesses": [
+      "Mid power until built (~400-450 hp target)."
+    ],
+    "tuneSearchHint": "JSR Chronic FH6 tune sheet (Forza Forums) + in-game Drift filter, sort top-rated *"
+  },
+  {
+    "discipline": "drift",
+    "class": "B",
+    "rank": 2,
+    "carId": "toyota-jzx100-chaser",
+    "source": [
+      {
+        "name": "Switchblade"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "1JZ-GTE, long wheelbase great for long passes / Tokyo expressways."
+    ],
+    "weaknesses": [
+      "Heavy; less agile in tight switchbacks."
+    ],
+    "tuneSearchHint": "JSR Chronic FH6 tune sheet (Forza Forums) + in-game Drift filter, sort top-rated *"
+  },
+  {
+    "discipline": "drift",
+    "class": "B",
+    "rank": 3,
+    "carId": "toyota-ae86-sprinter-trueno-forza-edition",
+    "source": [
+      {
+        "name": "Switchblade"
+      },
+      {
+        "name": "PC Gamer"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Wheelspin / FE reward",
+    "strengths": [
+      "Adds power without changing the chassis balance; the 'correct' touge car (Mt. Haruna)."
+    ],
+    "weaknesses": [
+      "FE acquisition only."
+    ],
+    "tuneSearchHint": "JSR Chronic FH6 tune sheet (Forza Forums) + in-game Drift filter, sort top-rated *"
+  },
+  {
+    "discipline": "drift",
+    "class": "A",
+    "rank": 1,
+    "carId": "nissan-silvia-spec-r-s15",
+    "source": [
+      {
+        "name": "Game8"
+      },
+      {
+        "name": "PC Gamer"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Community 'king of sliding'; technical precision, wide drift tyres, clears most challenges."
+    ],
+    "weaknesses": [
+      "Outscored by Formula Drift cars in open zones."
+    ],
+    "tuneSearchHint": "JSR Chronic FH6 tune sheet (Forza Forums) + in-game Drift filter, sort top-rated *",
+    "priceCr": 44000
+  },
+  {
+    "discipline": "drift",
+    "class": "A",
+    "rank": 2,
+    "carId": "ford-mustang-dark-horse",
+    "source": [
+      {
+        "name": "PC Gamer"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Best muscle drift: power, aggressive rotation, wide lines."
+    ],
+    "weaknesses": [
+      "Hard to keep straight; heavy."
+    ],
+    "tuneSearchHint": "JSR Chronic FH6 tune sheet (Forza Forums) + in-game Drift filter, sort top-rated *"
+  },
+  {
+    "discipline": "drift",
+    "class": "S1",
+    "rank": 1,
+    "carId": "formula-drift-151-toyota-gr-supra",
+    "source": [
+      {
+        "name": "Game8"
+      },
+      {
+        "name": "Switchblade"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Safest overall pick; glides and smokes even stock, checks every box."
+    ],
+    "weaknesses": [
+      "Premium FD purchase."
+    ],
+    "tuneSearchHint": "JSR Chronic FH6 tune sheet (Forza Forums) + in-game Drift filter, sort top-rated *",
+    "priceCr": 185000
+  },
+  {
+    "discipline": "drift",
+    "class": "S1",
+    "rank": 2,
+    "carId": "formula-drift-64-forsberg-nissan-z",
+    "source": [
+      {
+        "name": "Game8"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Best for most players: easy to buy/tune, 3-stars most drift zones, less twitchy."
+    ],
+    "weaknesses": [
+      "Spec FD car, less customizable."
+    ],
+    "tuneSearchHint": "JSR Chronic FH6 tune sheet (Forza Forums) + in-game Drift filter, sort top-rated *"
+  },
+  {
+    "discipline": "drift",
+    "class": "S1",
+    "rank": 3,
+    "carId": "formula-drift-99-mazda-rx-8",
+    "source": [
+      {
+        "name": "Game8"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Rotary drifts very controllable, easy to handle."
+    ],
+    "weaknesses": [
+      "Rotary fuel/heat quirks."
+    ],
+    "tuneSearchHint": "JSR Chronic FH6 tune sheet (Forza Forums) + in-game Drift filter, sort top-rated *"
+  },
+  {
+    "discipline": "drift",
+    "class": "S2",
+    "rank": 1,
+    "carId": "lotus-evija-forza-edition",
+    "source": [
+      {
+        "name": "Switchblade"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Wheelspin-exclusive",
+    "strengths": [
+      "S2 drift specialist — electric instant torque."
+    ],
+    "weaknesses": [
+      "Wheelspin-only; twitchier than ICE drifters."
+    ],
+    "tuneSearchHint": "JSR Chronic FH6 tune sheet (Forza Forums) + in-game Drift filter, sort top-rated *"
+  },
+  {
+    "discipline": "dirt",
+    "class": "D",
+    "rank": 1,
+    "carId": "gmc-jimmy",
+    "source": [
+      {
+        "name": "gamingpromax"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Prologue starter / Autoshow",
+    "strengths": [
+      "Built for rough routes, 9.3 off-road rating; free early."
+    ],
+    "weaknesses": [
+      "Slow on clean road."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: filter Dirt/Rally, sort top-rated *",
+    "priceCr": 60000
+  },
+  {
+    "discipline": "dirt",
+    "class": "C",
+    "rank": 1,
+    "carId": "toyota-celica-gt-four-st205",
+    "source": [
+      {
+        "name": "gamingpromax"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Prologue starter / Autoshow",
+    "strengths": [
+      "AWD traction, mixed-surface flexibility, best top speed of the starters."
+    ],
+    "weaknesses": [
+      "Not a pure dirt specialist."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: filter Dirt/Rally, sort top-rated *"
+  },
+  {
+    "discipline": "dirt",
+    "class": "B",
+    "rank": 1,
+    "carId": "subaru-impreza-wrx-sti",
+    "source": [
+      {
+        "name": "PC Gamer"
+      },
+      {
+        "name": "Game8"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Iconic, dirt-cheap; great general spread with headroom before hitting A-rank."
+    ],
+    "weaknesses": [
+      "Stock power modest; needs conversion up-class."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: filter Dirt/Rally, sort top-rated *",
+    "priceCr": 30000
+  },
+  {
+    "discipline": "dirt",
+    "class": "B",
+    "rank": 2,
+    "carId": "mitsubishi-lancer-evolution-viii-mr",
+    "source": [
+      {
+        "name": "gamingpromax"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Autoshow (Welcome Pack version pre-tuned to A)",
+    "strengths": [
+      "Reliable AWD out of the box; hard to beat on dirt/rally."
+    ],
+    "weaknesses": [
+      "Heavier than tuned rivals."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: filter Dirt/Rally, sort top-rated *",
+    "priceCr": 30000
+  },
+  {
+    "discipline": "dirt",
+    "class": "B",
+    "rank": 3,
+    "carId": "mitsubishi-lancer-evolution-ix-mr",
+    "source": [
+      {
+        "name": "Festival Playlist Series 1"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Festival Playlist Series 1 Summer (40 pts) — free",
+    "strengths": [
+      "Festival-free upgrade over the VIII MR; newer chassis, same AWD recipe."
+    ],
+    "weaknesses": [
+      "Available only by playing Series 1 Summer."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: filter Dirt/Rally, sort top-rated *"
+  },
+  {
+    "discipline": "dirt",
+    "class": "B",
+    "rank": 4,
+    "carId": "ford-rs200-evolution",
+    "source": [
+      {
+        "name": "PC Gamer"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Autoshow / Auction House",
+    "strengths": [
+      "Short wheelbase, light, huge corner manoeuvrability; proven dirt weapon."
+    ],
+    "weaknesses": [
+      "Twitchy at high speed."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: filter Dirt/Rally, sort top-rated *"
+  },
+  {
+    "discipline": "dirt",
+    "class": "A",
+    "rank": 1,
+    "carId": "subaru-brz-forza-edition",
+    "source": [
+      {
+        "name": "Game8"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Aftermarket spot at Sotoyama Ski Resort",
+    "strengths": [
+      "Perfect 10 off-road rating; a beast in both dirt and cross-country tuned."
+    ],
+    "weaknesses": [
+      "Must be located at the Aftermarket spot."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: filter Dirt/Rally, sort top-rated *"
+  },
+  {
+    "discipline": "dirt",
+    "class": "A",
+    "rank": 2,
+    "carId": "mitsubishi-lancer-evolution-vi",
+    "source": [
+      {
+        "name": "gamingpromax"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "AWD + turbo + balanced chassis; fast and stable on loose dirt."
+    ],
+    "weaknesses": [
+      "Needs a rally conversion to fully optimize."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: filter Dirt/Rally, sort top-rated *"
+  },
+  {
+    "discipline": "dirt",
+    "class": "A",
+    "rank": 3,
+    "carId": "ford-4-focus-rs-rally",
+    "source": [
+      {
+        "name": "PC Gamer"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Scrappy: high speed + accel + off-road handling."
+    ],
+    "weaknesses": [
+      "Costlier than B-class value picks."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: filter Dirt/Rally, sort top-rated *",
+    "priceCr": 415000
+  },
+  {
+    "discipline": "dirt",
+    "class": "S1",
+    "rank": 1,
+    "carId": "audi-sport-quattro-s1",
+    "source": [
+      {
+        "name": "Game8"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Go-to traditional rally car; iconic AWD turbo."
+    ],
+    "weaknesses": [
+      "Older chassis vs converted exotics."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: filter Dirt/Rally, sort top-rated *"
+  },
+  {
+    "discipline": "dirt",
+    "class": "S1",
+    "rank": 2,
+    "carId": "lotus-exige-wtac-rally-conversion",
+    "source": [
+      {
+        "name": "Game8"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Autoshow / Aftermarket",
+    "strengths": [
+      "Once rally-converted, one of the best dirt-race cars overall."
+    ],
+    "weaknesses": [
+      "Requires a full rally conversion."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: filter Dirt/Rally, sort top-rated *"
+  },
+  {
+    "discipline": "dirt",
+    "class": "S2",
+    "rank": 1,
+    "carId": "porsche-917-forza-edition-rally-conversion",
+    "source": [
+      {
+        "name": "Game8"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Tentative",
+    "acquisition": "FE / Wheelspin",
+    "strengths": [
+      "Top-tier converted rally option at high PI."
+    ],
+    "weaknesses": [
+      "FE-only; needs full conversion."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: filter Dirt/Rally, sort top-rated *"
+  },
+  {
+    "discipline": "xc",
+    "class": "D",
+    "rank": 1,
+    "carId": "ford-f-450-super-duty",
+    "source": [
+      {
+        "name": "Game8"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Best D-class CC pick; consistent across every cross-country track."
+    ],
+    "weaknesses": [
+      "Bulky; slow on tarmac."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: filter Cross-Country, sort top-rated *"
+  },
+  {
+    "discipline": "xc",
+    "class": "C",
+    "rank": 1,
+    "carId": "ford-f-450-super-duty",
+    "source": [
+      {
+        "name": "Game8"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Carries straight into C: durable, consistent on all CC track types."
+    ],
+    "weaknesses": [
+      "Bulky; slow on tarmac."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: filter Cross-Country, sort top-rated *"
+  },
+  {
+    "discipline": "xc",
+    "class": "B",
+    "rank": 1,
+    "carId": "ford-f-450-super-duty",
+    "source": [
+      {
+        "name": "Game8"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Game8's best pick across all of D-B; consistent every tier."
+    ],
+    "weaknesses": [
+      "Bulky; slow on tarmac; not for higher classes."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: filter Cross-Country, sort top-rated *"
+  },
+  {
+    "discipline": "xc",
+    "class": "A",
+    "rank": 1,
+    "carId": "mercedes-benz-x-class",
+    "source": [
+      {
+        "name": "Game8"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Best A-class CC pick; consistent on all cross-country race types."
+    ],
+    "weaknesses": [
+      "Not the fastest outright."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: filter Cross-Country, sort top-rated *"
+  },
+  {
+    "discipline": "xc",
+    "class": "A",
+    "rank": 2,
+    "carId": "ford-f-150-raptor-r",
+    "source": [
+      {
+        "name": "Game8"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Huge power and great for ramming."
+    ],
+    "weaknesses": [
+      "Ugly handling on paper — tune handling first, then top speed."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: filter Cross-Country, sort top-rated *",
+    "priceCr": 110000
+  },
+  {
+    "discipline": "xc",
+    "class": "A",
+    "rank": 3,
+    "carId": "toyota-land-cruiser",
+    "source": [
+      {
+        "name": "Game8"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Reliable all-terrain."
+    ],
+    "weaknesses": [
+      "Needs accel + braking tuned for bendy tracks."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: filter Cross-Country, sort top-rated *",
+    "priceCr": 70000
+  },
+  {
+    "discipline": "xc",
+    "class": "S1",
+    "rank": 1,
+    "carId": "dodge-viper-forza-edition-gts-acr-fe",
+    "source": [
+      {
+        "name": "Game8"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Premium edition / VIP only",
+    "strengths": [
+      "Best S1+ CC: incredibly fast and lightweight, nothing comparable for speed."
+    ],
+    "weaknesses": [
+      "Paywalled (VIP/Premium). Free alternative: Subaru BRZ FE."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: filter Cross-Country, sort top-rated *"
+  },
+  {
+    "discipline": "xc",
+    "class": "S1",
+    "rank": 2,
+    "carId": "subaru-brz-forza-edition",
+    "source": [
+      {
+        "name": "Game8"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Strong",
+    "acquisition": "Aftermarket spot at Sotoyama Ski Resort",
+    "strengths": [
+      "Best FREE S1+ pick; excellent control on loose surfaces, handles CC well."
+    ],
+    "weaknesses": [
+      "RWD-biased vs trucks on the roughest terrain."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: filter Cross-Country, sort top-rated *"
+  },
+  {
+    "discipline": "xc",
+    "class": "S2",
+    "rank": 1,
+    "carId": "ford-bronco-r",
+    "source": [
+      {
+        "name": "PC Gamer"
+      }
+    ],
+    "updatedAt": "2026-06-05",
+    "confidence": "Moderate",
+    "acquisition": "Autoshow",
+    "strengths": [
+      "Factory off-road tyres, perfect 10 off-road rating; excels at huge drops (~6,500 lb durability)."
+    ],
+    "weaknesses": [
+      "Heavy, ~325 hp, low handling rating (~4)."
+    ],
+    "tuneSearchHint": "In-game Find Tuning Setups: filter Cross-Country, sort top-rated *"
+  }
+]

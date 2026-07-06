@@ -1,0 +1,427 @@
+[
+  {
+    "id": "toyota-sports-800",
+    "name": "Toyota Sports 800",
+    "year": 1965,
+    "classes": [
+      "D"
+    ]
+  },
+  {
+    "id": "jaguar-e-type-s1",
+    "name": "Jaguar E-Type S1",
+    "year": 1961,
+    "classes": [
+      "C"
+    ]
+  },
+  {
+    "id": "audi-rs-6",
+    "name": "Audi RS 6",
+    "year": 2009,
+    "classes": [
+      "B"
+    ]
+  },
+  {
+    "id": "volkswagen-golf-r",
+    "name": "Volkswagen Golf R",
+    "year": 2021,
+    "classes": [
+      "B"
+    ]
+  },
+  {
+    "id": "toyota-2000gt",
+    "name": "Toyota 2000GT",
+    "year": 1969,
+    "classes": [
+      "B"
+    ]
+  },
+  {
+    "id": "toyota-gr-supra",
+    "name": "Toyota GR Supra",
+    "year": 2020,
+    "classes": [
+      "A"
+    ]
+  },
+  {
+    "id": "bmw-m2-competition-coupe",
+    "name": "BMW M2 Competition Coupe",
+    "year": 2020,
+    "classes": [
+      "A"
+    ]
+  },
+  {
+    "id": "jaguar-xj220",
+    "name": "Jaguar XJ220",
+    "year": 1993,
+    "classes": [
+      "A"
+    ]
+  },
+  {
+    "id": "nissan-gt-r-nismo",
+    "name": "Nissan GT-R NISMO",
+    "year": 2024,
+    "classes": [
+      "S1"
+    ]
+  },
+  {
+    "id": "porsche-911-gt3-rs",
+    "name": "Porsche 911 GT3 RS",
+    "year": 2023,
+    "classes": [
+      "S1"
+    ]
+  },
+  {
+    "id": "porsche-911-turbo-s",
+    "name": "Porsche 911 Turbo S",
+    "year": 2023,
+    "classes": [
+      "S1"
+    ]
+  },
+  {
+    "id": "mercedes-amg-one",
+    "name": "Mercedes-AMG One",
+    "year": 2021,
+    "classes": [
+      "S2"
+    ]
+  },
+  {
+    "id": "gr-gt-prototype-toyota",
+    "name": "GR GT Prototype (Toyota)",
+    "year": 2025,
+    "classes": [
+      "S2"
+    ]
+  },
+  {
+    "id": "koenigsegg-jesko",
+    "name": "Koenigsegg Jesko",
+    "year": 2020,
+    "classes": [
+      "S2"
+    ]
+  },
+  {
+    "id": "mazda-furai",
+    "name": "Mazda Furai",
+    "year": 2008,
+    "classes": [
+      "S2"
+    ]
+  },
+  {
+    "id": "ferrari-fxx-k-evo",
+    "name": "Ferrari FXX-K Evo",
+    "year": 2018,
+    "classes": [
+      "R"
+    ]
+  },
+  {
+    "id": "aston-martin-valkyrie",
+    "name": "Aston Martin Valkyrie",
+    "year": 2023,
+    "classes": [
+      "R"
+    ]
+  },
+  {
+    "id": "mclaren-p1",
+    "name": "McLaren P1",
+    "year": 2013,
+    "classes": [
+      "R"
+    ]
+  },
+  {
+    "id": "honda-beat",
+    "name": "Honda Beat",
+    "year": 1991,
+    "classes": [
+      "D"
+    ]
+  },
+  {
+    "id": "toyota-supra-rz",
+    "name": "Toyota Supra RZ",
+    "year": 1998,
+    "classes": [
+      "B"
+    ]
+  },
+  {
+    "id": "nissan-gt-r-black-edition-r35",
+    "name": "Nissan GT-R Black Edition (R35)",
+    "year": 2012,
+    "classes": [
+      "S1"
+    ]
+  },
+  {
+    "id": "nissan-gt-r-black-edition-r35-forza-edition",
+    "name": "Nissan GT-R Black Edition (R35) 'Forza Edition'",
+    "year": 2012,
+    "classes": [
+      "S2"
+    ]
+  },
+  {
+    "id": "mazda-mx-5-miata-forza-edition",
+    "name": "Mazda MX-5 Miata 'Forza Edition'",
+    "year": 1994,
+    "classes": [
+      "S2"
+    ]
+  },
+  {
+    "id": "hennessey-venom-f5",
+    "name": "Hennessey Venom F5",
+    "year": 2021,
+    "classes": [
+      "S2"
+    ]
+  },
+  {
+    "id": "toyota-tacoma-trd-pro-forza-edition",
+    "name": "Toyota Tacoma TRD Pro 'Forza Edition'",
+    "year": 2019,
+    "classes": [
+      "R"
+    ]
+  },
+  {
+    "id": "toyota-sprinter-trueno-gt-apex-ae86",
+    "name": "Toyota Sprinter Trueno GT Apex (AE86)",
+    "classes": [
+      "D"
+    ]
+  },
+  {
+    "id": "mazda-mx-5-miata-rf",
+    "name": "Mazda MX-5 Miata RF",
+    "year": 2022,
+    "classes": [
+      "C"
+    ]
+  },
+  {
+    "id": "nissan-silvia-s13",
+    "name": "Nissan Silvia (S13)",
+    "classes": [
+      "C"
+    ]
+  },
+  {
+    "id": "nissan-silvia-ks-s14",
+    "name": "Nissan Silvia K's (S14)",
+    "year": 1994,
+    "classes": [
+      "B"
+    ]
+  },
+  {
+    "id": "toyota-jzx100-chaser",
+    "name": "Toyota JZX100 Chaser",
+    "classes": [
+      "B"
+    ]
+  },
+  {
+    "id": "toyota-ae86-sprinter-trueno-forza-edition",
+    "name": "Toyota AE86 Sprinter Trueno 'Forza Edition'",
+    "classes": [
+      "B"
+    ]
+  },
+  {
+    "id": "nissan-silvia-spec-r-s15",
+    "name": "Nissan Silvia Spec-R (S15)",
+    "year": 2002,
+    "classes": [
+      "A"
+    ]
+  },
+  {
+    "id": "ford-mustang-dark-horse",
+    "name": "Ford Mustang Dark Horse",
+    "classes": [
+      "A"
+    ]
+  },
+  {
+    "id": "formula-drift-151-toyota-gr-supra",
+    "name": "Formula Drift #151 Toyota GR Supra",
+    "year": 2020,
+    "classes": [
+      "S1"
+    ]
+  },
+  {
+    "id": "formula-drift-64-forsberg-nissan-z",
+    "name": "Formula Drift #64 Forsberg Nissan Z",
+    "classes": [
+      "S1"
+    ]
+  },
+  {
+    "id": "formula-drift-99-mazda-rx-8",
+    "name": "Formula Drift #99 Mazda RX-8",
+    "classes": [
+      "S1"
+    ]
+  },
+  {
+    "id": "lotus-evija-forza-edition",
+    "name": "Lotus Evija 'Forza Edition'",
+    "classes": [
+      "S2"
+    ]
+  },
+  {
+    "id": "gmc-jimmy",
+    "name": "GMC Jimmy",
+    "year": 1970,
+    "classes": [
+      "D"
+    ]
+  },
+  {
+    "id": "toyota-celica-gt-four-st205",
+    "name": "Toyota Celica GT-Four ST205",
+    "classes": [
+      "C"
+    ]
+  },
+  {
+    "id": "subaru-impreza-wrx-sti",
+    "name": "Subaru Impreza WRX STI",
+    "year": 2004,
+    "classes": [
+      "B"
+    ]
+  },
+  {
+    "id": "mitsubishi-lancer-evolution-viii-mr",
+    "name": "Mitsubishi Lancer Evolution VIII MR",
+    "year": 2004,
+    "classes": [
+      "B"
+    ]
+  },
+  {
+    "id": "mitsubishi-lancer-evolution-ix-mr",
+    "name": "Mitsubishi Lancer Evolution IX MR",
+    "year": 2006,
+    "classes": [
+      "B"
+    ]
+  },
+  {
+    "id": "ford-rs200-evolution",
+    "name": "Ford RS200 Evolution",
+    "classes": [
+      "B"
+    ]
+  },
+  {
+    "id": "subaru-brz-forza-edition",
+    "name": "Subaru BRZ 'Forza Edition'",
+    "year": 2022,
+    "classes": [
+      "A",
+      "S1"
+    ]
+  },
+  {
+    "id": "mitsubishi-lancer-evolution-vi",
+    "name": "Mitsubishi Lancer Evolution VI",
+    "classes": [
+      "A"
+    ]
+  },
+  {
+    "id": "ford-4-focus-rs-rally",
+    "name": "Ford #4 Focus RS (rally)",
+    "year": 2001,
+    "classes": [
+      "A"
+    ]
+  },
+  {
+    "id": "audi-sport-quattro-s1",
+    "name": "Audi Sport Quattro S1",
+    "classes": [
+      "S1"
+    ]
+  },
+  {
+    "id": "lotus-exige-wtac-rally-conversion",
+    "name": "Lotus Exige WTAC (rally conversion)",
+    "classes": [
+      "S1"
+    ]
+  },
+  {
+    "id": "porsche-917-forza-edition-rally-conversion",
+    "name": "Porsche 917 'Forza Edition' (rally conversion)",
+    "classes": [
+      "S2"
+    ]
+  },
+  {
+    "id": "ford-f-450-super-duty",
+    "name": "Ford F-450 (Super Duty)",
+    "classes": [
+      "D",
+      "C",
+      "B"
+    ]
+  },
+  {
+    "id": "mercedes-benz-x-class",
+    "name": "Mercedes-Benz X-Class",
+    "classes": [
+      "A"
+    ]
+  },
+  {
+    "id": "ford-f-150-raptor-r",
+    "name": "Ford F-150 Raptor R",
+    "year": 2023,
+    "classes": [
+      "A"
+    ]
+  },
+  {
+    "id": "toyota-land-cruiser",
+    "name": "Toyota Land Cruiser",
+    "year": 2025,
+    "classes": [
+      "A"
+    ]
+  },
+  {
+    "id": "dodge-viper-forza-edition-gts-acr-fe",
+    "name": "Dodge Viper 'Forza Edition' / GTS ACR FE",
+    "classes": [
+      "S1"
+    ]
+  },
+  {
+    "id": "ford-bronco-r",
+    "name": "Ford Bronco R",
+    "classes": [
+      "S2"
+    ]
+  }
+]
