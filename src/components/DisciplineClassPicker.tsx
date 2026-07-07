@@ -1,14 +1,7 @@
 import type { Class, Discipline } from "../types";
+import { DISCIPLINE_LABELS } from "../lib/labels";
 
-const DISCIPLINES: { value: Discipline; label: string }[] = [
-  { value: "road", label: "Road" },
-  { value: "street", label: "Street" },
-  { value: "dirt", label: "Dirt" },
-  { value: "xc", label: "Cross-Country" },
-  { value: "touge", label: "Touge" },
-  { value: "drag", label: "Drag" },
-  { value: "drift", label: "Drift" },
-];
+const DISCIPLINES: Discipline[] = ["road", "street", "dirt", "xc", "touge", "drag", "drift"];
 
 const CLASSES: Class[] = ["D", "C", "B", "A", "S1", "S2", "R", "X"];
 
@@ -56,12 +49,8 @@ export function DisciplineClassPicker({
         </h2>
         <div className="flex flex-wrap gap-2">
           {DISCIPLINES.map((d) => (
-            <PickerButton
-              key={d.value}
-              selected={discipline === d.value}
-              onClick={() => onDisciplineChange(d.value)}
-            >
-              {d.label}
+            <PickerButton key={d} selected={discipline === d} onClick={() => onDisciplineChange(d)}>
+              {DISCIPLINE_LABELS[d]}
             </PickerButton>
           ))}
         </div>

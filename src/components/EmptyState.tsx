@@ -1,8 +1,9 @@
 import type { Discipline } from "../types";
 import type { Selection } from "../lib/filter";
+import { DISCIPLINE_LABELS } from "../lib/labels";
 
 const DISCIPLINE_EMPTY_HINTS: Partial<Record<Discipline, string>> = {
-  touge: "可參考 Drift 分類(概念相近,但非嚴格對應 touge 的山道對決玩法)。",
+  touge: `可參考${DISCIPLINE_LABELS.drift}分類(概念相近,但非嚴格對應山道對決玩法)。`,
 };
 
 type EmptySelection = Exclude<Selection, { kind: "results" }>;
