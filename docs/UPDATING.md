@@ -59,9 +59,9 @@ npm run test       # 必須綠燈(有動到假設請見上面規則 5)
 git add data/ && git commit -m "..."
 git push -u origin data/<分支名>
 gh pr create        # 不要直接 push main
-# 確認後
-gh pr merge
 ```
+
+**開完 PR 後就停下,等待人工在 GitHub 上審核並按下合併。** 合併權限只在人工——不管是 Cowork 還是任何自動化流程,都不可以自己執行 `gh pr merge` 或其他形式的自我合併。原因:tuneCode 這類欄位需要人工(有遊戲的人)在遊戲內實際核對過才算數,PR 審核是這個查核發生的地方,跳過等於跳過查核本身。
 
 Merge 到 `main` 後 Vercel 會自動部署,幾十秒內線上網址會是新版本。
 
@@ -80,5 +80,6 @@ Merge 到 `main` 後 Vercel 會自動部署,幾十秒內線上網址會是新版
 - 調校碼一定要是有查證出處的真碼,不要照抄未驗證的網路碼,查不到就維持 tuneSearchHint
 - 改完跑 npm run validate 和 npm run test,兩個都要綠燈
 - 開分支 + PR,不要直接 push main
+- **開完 PR 就停下,不要自己合併(`gh pr merge`)——合併權限只在人工,我要親自審核才能按合併**
 - 完成後列出改了哪幾筆、source 是什麼,讓我驗收
 ```

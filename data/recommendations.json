@@ -1064,9 +1064,13 @@
     "source": [
       {
         "name": "Game8"
+      },
+      {
+        "name": "Dexerto",
+        "url": "https://www.dexerto.com/wikis/forza-horizon-6/best-tuning-codes-forza-horizon-6/"
       }
     ],
-    "updatedAt": "2026-06-05",
+    "updatedAt": "2026-07-07",
     "confidence": "Strong",
     "acquisition": "Aftermarket spot (Festival KM Drag Meet) / Auction House",
     "strengths": [
@@ -1075,7 +1079,7 @@
     "weaknesses": [
       "Falls off on very long top-speed strips."
     ],
-    "tuneSearchHint": "In-game Find Tuning Setups: filter Drag, sort top-rated; also YouTube drag-tune videos *",
+    "tuneCode": "159 766 283",
     "priceCr": 500000
   },
   {
