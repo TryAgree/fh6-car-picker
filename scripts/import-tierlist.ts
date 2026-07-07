@@ -91,6 +91,7 @@ function main() {
       "forzatune.com",
       "JSR Chronic tune sheet (Forza Forums)",
     ],
+    lastVerifiedAt: new Date().toISOString().slice(0, 10),
   };
 
   const dataDir = path.join(root, "data");
