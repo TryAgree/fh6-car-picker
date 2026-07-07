@@ -17,9 +17,11 @@
 - JSR Chronic FH6 Tunes(Forza Forums 試算表 + Discord):https://forums.forza.net/t/jsr-chronic-fh6-tunes-spreadsheet-share-codes-discord/826030
 - r/ForzaHorizon — 社群在每次每週賽事更新後會貼新調校:https://www.reddit.com/r/ForzaHorizon/
 
-**找到碼之後,必須先在遊戲內實際套用測試過、確認 PI 沒超過該筆推薦的 class 上限,才能寫進 `tuneCode`。不可以照抄網路上未經查證的碼**——CLAUDE.md 已經記錄「不造假調校碼」是這個專案的硬性原則,seed.py 作者自己也是因為這個理由才沒有把網路碼照單全收。
+**找到碼之後,必須先在遊戲內實際套用測試過,同時核對兩項——① 用途分類是否吻合(road/drag/drift/dirt/xc)② 套用後的實際 class/PI 是否落在該筆推薦的等級——兩項都對得上才能寫進 `tuneCode`。不可以照抄網路上未經查證的用途標注,那不算驗證。** CLAUDE.md 已經記錄「不造假調校碼」是這個專案的硬性原則,seed.py 作者自己也是因為這個理由才沒有把網路碼照單全收。
 
-找到真碼後的動作:把對應 recommendation 的 `tuneSearchHint` 換成 `tuneCode`(兩者互斥,見 `src/components/RecommendationCard.tsx` 的渲染邏輯),`source` 加上這個碼的出處,`updatedAt` 改成驗證日期。
+> **反面教材(2026-07-07)**:曾經從 Dexerto 的調校碼頁面找到一筆「Mazda MX-5 Miata 'Forza Edition'(1994)」代碼 `159 766 283`,網頁標注用途是「Drag」,車名/年份也跟我們 `drag`/`S2`/rank2 的推薦完全吻合,看起來是穩妥的配對,就先寫進了 `tuneCode`(PR #2)。結果人工在遊戲內實測後發現:這個碼其實是 VraelJSP 的 **Offroad** 調校,套用後是 **R 995**——用途跟 class 兩項都不符(需求是 drag/S2)。網頁上的「車名 + 年份 + 用途文字」三者吻合,完全不能取代遊戲內實測;**遊戲內實測是唯一判準**,而且要同時核對用途分類跟套用後 class 兩項,少查一項都可能誤放假碼。這筆最後退回 `tuneSearchHint`。
+
+找到真碼並實測通過後的動作:把對應 recommendation 的 `tuneSearchHint` 換成 `tuneCode`(兩者互斥,見 `src/components/RecommendationCard.tsx` 的渲染邏輯),`source` 加上這個碼的出處,`updatedAt` 改成驗證日期。如果實測沒過,維持 `tuneSearchHint` 不動,不要留半成品的 `tuneCode`。
 
 ### ② touge 專門資料
 
