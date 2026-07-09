@@ -584,9 +584,13 @@
       },
       {
         "name": "Dexerto"
+      },
+      {
+        "name": "CODMunity",
+        "url": "https://codmunity.gg/forza"
       }
     ],
-    "updatedAt": "2026-06-05",
+    "updatedAt": "2026-07-07",
     "confidence": "Strong",
     "acquisition": "Autoshow (also Wheelspin / loyalty)",
     "strengths": [
@@ -595,7 +599,7 @@
     "weaknesses": [
       "Very expensive; demanding on bumpy streets."
     ],
-    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "tuneCode": "161681721",
     "priceCr": 2700000,
     "derived": {
       "reason": "road-street-merged",
@@ -613,9 +617,13 @@
       },
       {
         "name": "Dexerto"
+      },
+      {
+        "name": "CODMunity",
+        "url": "https://codmunity.gg/forza"
       }
     ],
-    "updatedAt": "2026-06-05",
+    "updatedAt": "2026-07-07",
     "confidence": "Strong",
     "acquisition": "Autoshow (also Wheelspin / loyalty)",
     "strengths": [
@@ -624,7 +632,7 @@
     "weaknesses": [
       "Very expensive; demanding on bumpy streets."
     ],
-    "tuneSearchHint": "In-game Find Tuning Setups: search car, filter Road, sort top-rated *",
+    "tuneCode": "161681721",
     "priceCr": 2700000,
     "derived": {
       "reason": "road-street-merged",
@@ -1043,9 +1051,13 @@
       },
       {
         "name": "community"
+      },
+      {
+        "name": "CODMunity",
+        "url": "https://codmunity.gg/forza"
       }
     ],
-    "updatedAt": "2026-06-05",
+    "updatedAt": "2026-07-07",
     "confidence": "Strong",
     "acquisition": "Wheelspins / Auction House only",
     "strengths": [
@@ -1054,7 +1066,7 @@
     "weaknesses": [
       "RNG to obtain; near-uncontrollable in corners (straight-line only)."
     ],
-    "tuneSearchHint": "In-game Find Tuning Setups: filter Drag, sort top-rated; also YouTube drag-tune videos *"
+    "tuneCode": "514752751"
   },
   {
     "discipline": "drag",
